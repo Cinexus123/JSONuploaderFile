@@ -1,41 +1,45 @@
 {
-  "Type": "Book",
-  "Identifier": "Book-1",
-  "﻿Key": "1",
+  "identyfikator": "plyta10",
+  "typ": "płyta",
   "simpleAttributes": [
     {
-      "Author": "Robert C. Martin",
-      "Title": "Clean Code"
+      "wykonawca": "Maciej Obara Quartet",
+      "tytuł": "Unloved",
+      "gatunek": "jazz",
+      "cena": "60"
     }
-  ]
+  ],
+  "klucz": "10"
 }{
-  "Type": "Book",
-  "Identifier": "Book-2",
-  "﻿Key": "2",
+  "identyfikator": "plyta20",
+  "typ": "płyta",
   "simpleAttributes": [
     {
-      "Author": "Andrew Hunt",
-      "Title": "The Pragmatic Programmer"
+      "wykonawca": "Various Artists",
+      "tytuł": "Smooth Jazz Cafe. Volume 17",
+      "gatunek": "jazz",
+      "cena": "50"
     }
-  ]
+  ],
+  "klucz": "20"
 }{
-  "Type": "Film",
-  "Identifier": "Film-1",
-  "﻿Key": "3",
+  "identyfikator": "komiks30",
+  "typ": "komiks",
   "simpleAttributes": [
     {
-      "Author": "Lilly Wachowski Lana Wachowski",
-      "Title": "The Matrix"
+      "podtytuł": "batman śmierć w rodzinie",
+      "tytuł": "Batman"
     }
-  ]
+  ],
+  "klucz": "30"
 }{
-  "Type": "Film",
-  "Identifier": "Film-2",
-  "﻿Key": "4",
+  "identyfikator": "komiks40",
+  "typ": "komiks",
   "simpleAttributes": [
     {
-      "Author": "George Lucas",
-      "Title": "Star Wars"
+      "podtytuł": "Superman Ostatni Syn Kryptona",
+      "tytuł": "Superman"
     }
-  ]
+  ],
+  "klucz": "40"
 }
