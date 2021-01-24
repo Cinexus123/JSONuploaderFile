@@ -1,0 +1,5 @@
+{
+  "csv": Store.csv
+  "xml": Sklep.xml
+  "output": output.json
+}

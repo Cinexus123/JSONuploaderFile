@@ -1,0 +1,41 @@
+{
+  "Type": "Book",
+  "Identifier": "Book-1",
+  "﻿Key": "1",
+  "simpleAttributes": [
+    {
+      "Author": "Robert C. Martin",
+      "Title": "Clean Code"
+    }
+  ]
+}{
+  "Type": "Book",
+  "Identifier": "Book-2",
+  "﻿Key": "2",
+  "simpleAttributes": [
+    {
+      "Author": "Andrew Hunt",
+      "Title": "The Pragmatic Programmer"
+    }
+  ]
+}{
+  "Type": "Film",
+  "Identifier": "Film-1",
+  "﻿Key": "3",
+  "simpleAttributes": [
+    {
+      "Author": "Lilly Wachowski Lana Wachowski",
+      "Title": "The Matrix"
+    }
+  ]
+}{
+  "Type": "Film",
+  "Identifier": "Film-2",
+  "﻿Key": "4",
+  "simpleAttributes": [
+    {
+      "Author": "George Lucas",
+      "Title": "Star Wars"
+    }
+  ]
+}
